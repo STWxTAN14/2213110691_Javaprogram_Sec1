@@ -1,0 +1,19 @@
+package javaweek2;
+import javax.swing.JOptionPane;
+public class Javaweek2 {
+
+	public static void main(String[] args) {				 
+	String cdld = JOptionPane.showInputDialog("This progream calsulates the total cost of a CD order "
+			+ "\nPlease enter the ID of the CD");
+	JOptionPane.showMessageDialog(null, cdld);
+	String cdTitle = JOptionPane.showInputDialog("Please enter the title of the CD ");
+	int cdQuantity;
+	double cdPrice;
+	double cdSubtotal;
+	double cdTotal;
+	
+	
+	
+	}
+
+}
