@@ -1,0 +1,3 @@
+StudentID:2213110691
+Fullnam:Setthawut Buasri
+ClassDetail:Control statement
