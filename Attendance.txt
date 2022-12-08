@@ -1,3 +1,4 @@
+Date:8-Dec-2022
 StudentID:2213110691
 Fullnam:Setthawut Buasri
-ClassDetail:Control statement
+ClassDetail:Define Method/Review Lab1-4
