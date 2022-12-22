@@ -1,5 +1,5 @@
-Date:8-Dec-2022
+Date:12-Dec-2022
  StudentID:  2213110691
    Fullname(in English):  Setthawut buasri
    AKA :Tan
-   ClassDetail:  ARRAY IN JAVA
+   ClassDetail:  Class and Object
