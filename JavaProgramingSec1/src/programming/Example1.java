@@ -1,3 +1,5 @@
+package programming;
+
 import javax.swing.*;
 public class Example1 {
 

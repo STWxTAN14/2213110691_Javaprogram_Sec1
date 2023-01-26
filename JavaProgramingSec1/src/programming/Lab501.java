@@ -1,3 +1,5 @@
+package programming;
+
 public class Lab501 {
 	public static void main(String[] args) {
 		// String format

@@ -1,3 +1,5 @@
+package programming;
+
 import java.util.*;
 public class Lab603 {
 	public static void main(String[] args) {
