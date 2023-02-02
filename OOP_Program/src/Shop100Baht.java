@@ -5,14 +5,17 @@ public class Shop100Baht {
 		// TODO Auto-generated method stub
 		Product sold = new Product();
 		
-		sold.setUnit(
-				Integer.parseInt(JOptionPane.showInputDialog("Input the number of product :")));
+		int button = JOptionPane.showConfirmDialog(null,"Pattanakarn?");
+		if(button ==0) {
+			sold = new PattanakranBranch();
+		}
+		
+		sold.setUnit(Integer.parseInt(JOptionPane.showInputDialog("Input the number of product :")));
 		
 		JOptionPane.showMessageDialog(null,sold);
 		
 		
-		
-		
 	}
+	
 
 }

@@ -15,7 +15,6 @@ INDEX VERSION 1.131+D:\2213110691_JavaProgram_SEC1\.metadata\.plugins\org.eclips
 2476351216.index
 2155685345.index
 2254571451.index
-1456296348.index
 408771512.index
 741416789.index
 1301684271.index
