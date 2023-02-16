@@ -2,4 +2,4 @@ Date:2-Feb-2023
  StudentID:  2213110691
    Fullname(in English):  Setthawut buasri
    AKA :Tan
-   ClassDetail:  Abstract and Interface
+   ClassDetail:  Exception + File (W / R)
